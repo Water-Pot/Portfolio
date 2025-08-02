@@ -168,16 +168,16 @@ section {
 }
 
 .about-info {
-  display: block;
-  margin-top: 0;
-  padding: 1.5rem;
-  background: rgb(158 158 158 / 30%);
-  color: #000000;
-  border-radius: 15px;
-  font-weight: 600;
-  text-decoration: none;
-  box-shadow: 0 2px 10px rgb(0, 0, 0);
-  transition: background .2s, color .2s;
+    display: block;
+    margin-top: 0;
+    padding: 1.5rem;
+    background: rgb(203 203 203 / 9%);
+    color: #000000;
+    border-radius: 15px;
+    font-weight: 00;
+    text-decoration: none;
+    box-shadow: 0 2px 10px rgb(81 79 115 / 22%);
+    transition: background .2s, color .2s;
 }
 
 .about-img {
@@ -292,7 +292,7 @@ section {
   color: var(--text-light);
 }
 
-#testimonials {
+/* #testimonials {
   text-align: center;
 }
 
@@ -357,7 +357,7 @@ section {
 #t-3:checked~.carousel-nav label:nth-child(3) {
   background: #6766865e;
   border-color: #a999b5;
-}
+} */
 
 /* Dark mode styles (if needed) */
 .theme-toggle:checked~main .carousel-item {
